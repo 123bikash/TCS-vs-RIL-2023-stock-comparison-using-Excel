@@ -6,3 +6,4 @@ Title : TCS and RIL stock market 2023 comparison dashboard
     - Download the Folder , it consists of main dashboard and the data related files
     - The first sheet is the dashboard , you can toggle the OHLC as you desire and get the realtime insights.
     - Data is present in the main file as well and you can use if you wish to make changes.
+![Dashboard(tcs vs ril)](https://github.com/user-attachments/assets/dc4ccc98-d246-4b46-8777-a3df51b3fd62)
